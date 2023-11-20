@@ -1,0 +1,206 @@
+[
+  {
+    "locale": "en",
+    "title": "Our services",
+    "list": [
+      {
+        "name": "content",
+        "title": "Content",
+        "portfolio": {
+          "title": "Our cases",
+          "list": [
+            {
+              "img": "img-1.png",
+              "title": "GPT bot news",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "img": "img-1.png",
+              "title": "Иишница",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+          ]
+        },
+        "stats": {
+          "title": "Stats",
+          "list": [
+            {
+              "number": "100",
+              "text": "постов в день"
+            },
+            {
+              "number": "1 МЛН",
+              "text": "аудитории"
+            }
+          ]
+        },
+        "feedback": {
+          "title": "Feedback",
+          "button": "More",
+          "list": [
+            {
+              "avatar": "img-1.png",
+              "text": "Уже не первый месяц работаю с @M1_Agency. Взяли на себя более 15 каналов. Качество на высоте, ни разу не подвели, цены адекватные. Контент им можно смело доверить!"
+            },
+            {
+              "avatar": "img-1.png",
+              "text": "Уже не первый месяц работаю с @M1_Agency. Взяли на себя более 15 каналов. Качество на высоте, ни разу не подвели, цены адекватные. Контент им можно смело доверить!"
+            }
+          ]
+        }
+      },
+      {
+        "name": "creatives",
+        "title": "Creatives",
+        "portfolio": {
+          "title": "Our cases",
+          "list": [
+            {
+              "img": "",
+              "title": "GPT bot news",
+              "text": ""
+            },
+            {
+              "img": "",
+              "title": "Иишница",
+              "text": ""
+            }
+          ]
+        },
+        "stats": {
+          "title": "Stats",
+          "list": [
+            {
+              "number": "100",
+              "text": "постов в день"
+            },
+            {
+              "number": "1 МЛН",
+              "text": "аудитории"
+            },
+            {
+              "number": "50",
+              "text": "каналов"
+            }
+          ]
+        },
+        "feedback": {
+          "title": "Feedback",
+          "button": "More",
+          "list": [
+            {
+              "avatar": "img-1.png",
+              "text": "Уже не первый месяц работаю с @M1_Agency. Взяли на себя более 15 каналов. Качество на высоте, ни разу не подвели, цены адекватные. Контент им можно смело доверить!"
+            },
+            {
+              "avatar": "img-1.png",
+              "text": "Уже не первый месяц работаю с @M1_Agency. Взяли на себя более 15 каналов. Качество на высоте, ни разу не подвели, цены адекватные. Контент им можно смело доверить!"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "locale": "ru",
+    "title": "Наши услуги",
+    "list": [
+      {
+        "name": "content",
+        "title": "Контент",
+        "portfolio": {
+          "title": "Наши кейсы",
+          "list": [
+            {
+              "img": "img-1.png",
+              "title": "GPT bot news",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "img": "img-1.png",
+              "title": "Иишница",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+          ]
+        },
+        "stats": {
+          "title": "Статистика",
+          "list": [
+            {
+              "number": "100",
+              "text": "постов в день"
+            },
+            {
+              "number": "1 МЛН",
+              "text": "аудитории"
+            }
+          ]
+        },
+        "feedback": {
+          "title": "Отзывы",
+          "button": "Больше",
+          "list": [
+            {
+              "avatar": "img-1.png",
+              "text": "Уже не первый месяц работаю с @M1_Agency. Взяли на себя более 15 каналов. Качество на высоте, ни разу не подвели, цены адекватные. Контент им можно смело доверить!"
+            },
+            {
+              "avatar": "img-1.png",
+              "text": "Уже не первый месяц работаю с @M1_Agency. Взяли на себя более 15 каналов. Качество на высоте, ни разу не подвели, цены адекватные. Контент им можно смело доверить!"
+            }
+          ]
+        }
+      },
+      {
+        "name": "creatives",
+        "title": "Креативы",
+        "portfolio": {
+          "title": "Наши кейсы",
+          "list": [
+            {
+              "img": "",
+              "title": "GPT bot news",
+              "text": ""
+            },
+            {
+              "img": "",
+              "title": "Иишница",
+              "text": ""
+            }
+          ]
+        },
+        "stats": {
+          "title": "Статистика",
+          "list": [
+            {
+              "number": "100",
+              "text": "постов в день"
+            },
+            {
+              "number": "1 МЛН",
+              "text": "аудитории"
+            },
+            {
+              "number": "50",
+              "text": "каналов"
+            }
+          ]
+        },
+        "feedback": {
+          "title": "Отзывы",
+          "button": "Больше",
+          "list": [
+            {
+              "avatar": "img-1.png",
+              "text": "Уже не первый месяц работаю с @M1_Agency. Взяли на себя более 15 каналов. Качество на высоте, ни разу не подвели, цены адекватные. Контент им можно смело доверить!"
+            },
+            {
+              "avatar": "img-1.png",
+              "text": "Уже не первый месяц работаю с @M1_Agency. Взяли на себя более 15 каналов. Качество на высоте, ни разу не подвели, цены адекватные. Контент им можно смело доверить!"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

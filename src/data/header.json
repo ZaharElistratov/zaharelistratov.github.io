@@ -1,0 +1,44 @@
+[
+  {
+    "locale": "en",
+    "links": [
+      {
+        "name": "Home",
+        "link": "intro"
+      },
+      {
+        "name": "Services",
+        "link": "services"
+      },
+      {
+        "name": "Feedback",
+        "link": "services"
+      }
+    ],
+    "button": {
+      "name": "Contact",
+      "link": "contacts"
+    }
+  },
+  {
+    "locale": "ru",
+    "links": [
+      {
+        "name": "Главная",
+        "link": "intro"
+      },
+      {
+        "name": "Услуги",
+        "link": "services"
+      },
+      {
+        "name": "Отзывы",
+        "link": "services"
+      }
+    ],
+    "button": {
+      "name": "Связаться",
+      "link": "contacts"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "locale": "en",
+    "links": [
+      {
+        "name": "Advertising Exchange",
+        "link": ""
+      },
+      {
+        "name": "Services",
+        "link": ""
+      },
+      {
+        "name": "Feedback",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "locale": "ru",
+    "links": [
+      {
+        "name": "Рекламная биржа",
+        "link": ""
+      },
+      {
+        "name": "Услуги",
+        "link": ""
+      },
+      {
+        "name": "Отзывы",
+        "link": ""
+      }
+    ]
+  }
+]
